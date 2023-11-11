@@ -1,0 +1,12 @@
+.personalized:hover {
+    background-color: pink;
+}
+
+.personalized:active {
+    background-color: pink;
+}
+
+.navbar-brand {
+    color: black;
+}
+
