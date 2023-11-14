@@ -1,0 +1,50 @@
+header{
+    background-color: rgb(255, 192, 203);
+    
+}
+
+.hidden {
+    display: none;
+}
+
+.navbar navbar-light bg-light{
+    background-color: pink;
+}
+
+.main-nav { 
+    color: white;
+    font-weight: 600;
+}
+
+.main-nav:hover { 
+    color: #bd49b8;
+}
+
+.subnav {
+    color: #ffbdc8;
+    font-weight: 600;
+}
+
+.subnav:hover {
+    color: #bd49b8;
+}
+
+.subnav:focus {
+    color: #bd49b8;
+}
+
+
+.group-imagenes{
+    display:flex;
+}
+
+.imagen img{
+    width: 200px;
+    height: 300px;
+margin-right: 10px;
+}
+
+footer{
+    background-color: rgb(255, 192, 203);
+    height: 70px;
+}
